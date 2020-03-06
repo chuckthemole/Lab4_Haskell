@@ -1,2 +1,3 @@
 # Lab4_Haskell
-Lab 4 Haskell Portion
+Programming Languages
+Haskell notes and assignments
